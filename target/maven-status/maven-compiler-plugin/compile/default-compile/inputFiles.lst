@@ -1,0 +1,10 @@
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Model/AbstractEntity.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Model/Cliente.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/StockApplication.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Adapter/SpringBootEssentialsAdapter.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Erro/ResourceNotFoundException.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Erro/CustomerErroType.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Repository/ProdutoRepository.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Endpoint/ProdutoEndpoint.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Model/Produto.java
+/home/yallisonmelo/Projetos/StockSystem/StockSystem/src/main/java/br/com/system/stock/Erro/ResourceNotFoundDetails.java
